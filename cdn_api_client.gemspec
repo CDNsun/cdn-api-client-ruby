@@ -6,10 +6,10 @@ require "cdn_api_client/version"
 Gem::Specification.new do |spec|
   spec.name          = "cdn_api_client"
   spec.version       = CDNsunCdnApiClient::VERSION
-  spec.authors       = ["Mark"]
-  spec.email         = ["birmanmark@gmail.com"]
+  spec.authors       = ["CDNsun"]
+  spec.email         = ["info@cdnsun.com"]
 
-  spec.summary       = %q{Client library for CDNsun CDN API}
+  spec.summary       = %q{Client for CDNsun CDN API}
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
