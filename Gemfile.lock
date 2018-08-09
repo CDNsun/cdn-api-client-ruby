@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cdn_api_client (0.3.0)
+    cdn_api_client (0.4.0)
       httparty (~> 0.16)
 
 GEM
@@ -36,4 +36,4 @@ DEPENDENCIES
   rspec (~> 3.0)
 
 BUNDLED WITH
-   1.16.1
+   1.16.3
