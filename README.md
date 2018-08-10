@@ -5,6 +5,10 @@ SYSTEM REQUIREMENTS
 * Ruby >= 2.1
 * httparty
 
+GEM
+
+https://rubygems.org/gems/cdn_api_client
+
 CLIENT USAGE
 
 * Initialize the client
