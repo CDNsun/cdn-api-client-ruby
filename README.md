@@ -9,6 +9,10 @@ GEM
 
 https://rubygems.org/gems/cdn_api_client
 
+CDN API DOCUMENTATION
+
+https://cdnsun.com/knowledgebase/api
+
 CLIENT USAGE
 
 * Initialize the client
