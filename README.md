@@ -7,7 +7,7 @@ SYSTEM REQUIREMENTS
 
 GEM
 
-https://rubygems.org/gems/cdn_api_client
+https://rubygems.org/gems/cdnsun
 
 CDN API DOCUMENTATION
 

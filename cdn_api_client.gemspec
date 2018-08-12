@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "cdn_api_client/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "cdn_api_client"
+  spec.name          = "cdnsun"
   spec.version       = CDNsunCdnApiClient::VERSION
   spec.authors       = ["CDNsun"]
   spec.email         = ["info@cdnsun.com"]
